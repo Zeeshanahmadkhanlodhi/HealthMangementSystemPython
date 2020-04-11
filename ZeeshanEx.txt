@@ -1,0 +1,4 @@
+date=[datetime.datetime(2020, 4, 11, 3, 16, 2, 393677)]chest
+date=[datetime.datetime(2020, 4, 11, 3, 18, 41, 531095)]shoulder
+date=[datetime.datetime(2020, 4, 11, 3, 20, 10, 386304)]wings
+date=[datetime.datetime(2020, 4, 11, 3, 20, 46, 702676)]legs
